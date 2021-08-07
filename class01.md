@@ -88,3 +88,6 @@ const ChildComponent = (props) => {
 
 ```
 
+## What is the flow of props?
+### its one way data flow, we cant sen send data from the child to the parent
+

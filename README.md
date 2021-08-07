@@ -4,9 +4,9 @@
 ## This repo was created to keep up with my class-notes and readings in very recognized way
 ## ***Table of Contents***
 
-| Name            | link                 | Date       |
+| Name            | link                 | Date(dd/mm/yyyy)       |
 | --------------- | -------------------  |----------- |
-|Read01           | [go here](class01.md)|  |
+|Read01           | [go here](class01.md)| 7/08/2021 |
 |Read02           | [go here](class02.md)|  |
 |Read03           | [go here](read03.md) |  |
 |Read04           | [go here](read04.md) |  |
